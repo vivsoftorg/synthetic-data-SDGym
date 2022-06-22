@@ -24,7 +24,7 @@ setup(
         'smart_open==1.10.0',
         'tqdm<5.0',
         'pandas==1.0.3',
-        'numpy==1.18.3'
+        'numpy==1.22.0'
     ],
     extras_require={
         'tf': ['tensorflow==2.1.0'],
